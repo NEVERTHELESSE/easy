@@ -1,0 +1,13 @@
+#primary {
+  background: linear-gradient(orange, blue);
+  padding: 10px 20px;
+  border-radius: 20px;
+  position: relative;
+}
+
+#primary::before {
+  content: "wow";
+  position: absolute;
+  top: 0;
+  background: green;
+}
