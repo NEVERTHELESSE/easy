@@ -1,0 +1,1 @@
+import{j as e}from"./index-DSkD4uGN.js";function r(){return e.jsxs("section",{className:"xl:px-10 py-[5rem] w-full ",children:[e.jsx("h2",{className:"md:text-3xl text-center uppercase",children:"easy electrician & engineering services"}),e.jsx("main",{className:"flex  my-3",children:e.jsx("div",{className:"w-[25rem] border h-[25rem] rounded-2xl"})})]})}export{r as default};
